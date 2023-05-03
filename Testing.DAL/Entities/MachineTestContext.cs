@@ -7,10 +7,6 @@ namespace Testing.DAL.Entities;
 
 public partial class MachineTestContext : DbContext
 {
-    public MachineTestContext()
-    {
-    }
-
     public MachineTestContext(DbContextOptions<MachineTestContext> options)
         : base(options)
     {
