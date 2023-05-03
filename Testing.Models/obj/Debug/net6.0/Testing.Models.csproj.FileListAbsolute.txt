@@ -1,0 +1,12 @@
+/Users/rees/Projects/Testing/Testing.Models/bin/Debug/net6.0/Testing.Models.deps.json
+/Users/rees/Projects/Testing/Testing.Models/bin/Debug/net6.0/Testing.Models.dll
+/Users/rees/Projects/Testing/Testing.Models/bin/Debug/net6.0/Testing.Models.pdb
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.csproj.AssemblyReference.cache
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.AssemblyInfoInputs.cache
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.AssemblyInfo.cs
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.csproj.CoreCompileInputs.cache
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.dll
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/refint/Testing.Models.dll
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/Testing.Models.pdb
+/Users/rees/Projects/Testing/Testing.Models/obj/Debug/net6.0/ref/Testing.Models.dll

@@ -1,0 +1,17 @@
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.DAL.deps.json
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.DAL.runtimeconfig.json
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.DAL.dll
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.DAL.pdb
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.csproj.AssemblyReference.cache
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.AssemblyInfoInputs.cache
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.AssemblyInfo.cs
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.csproj.CoreCompileInputs.cache
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.dll
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/refint/Testing.DAL.dll
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.pdb
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.genruntimeconfig.cache
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/ref/Testing.DAL.dll
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.Models.dll
+/Users/rees/Projects/Testing/Testing.DAL/bin/Debug/net6.0/Testing.Models.pdb
+/Users/rees/Projects/Testing/Testing.DAL/obj/Debug/net6.0/Testing.DAL.csproj.CopyComplete
